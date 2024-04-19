@@ -3,7 +3,7 @@
 <h1 align="center">Create Web Applications Using AWS Amplify</h1>
 
 <p align="center">
-  <a href="https://cloudacademy.com/course/high-performance-text-analysis-huggingface-gpt-2-aws-neuron-aws-inferentia-5935/introduction-28032024101057/">
+  <a href="https://cloudacademy.com/course/create-web-applications-using-aws-amplify-1/introduction-15042024201555/">
     <img src="https://img.shields.io/badge/-Start Lesson-blue" alt="AWS Amplify">
   </a>
 </p>
